@@ -93,13 +93,13 @@ This project use the following ports :
 To install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git), download it and install following the instructions : 
 
 ```sh
-git clone https://github.com/shijiaoliang/docker-nginx-php-mysql.git
+git clone https://github.com/shijiaoliang/docker-app.git
 ```
 
 Go to the project directory : 
 
 ```sh
-cd docker-nginx-php-mysql
+cd docker-app
 ```
 
 ### Project tree
